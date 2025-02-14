@@ -1,1 +1,18 @@
-
+{
+  "assertionMethod":["did:web:famuda1234.github.io:readme:did#key-0"],
+  "service":[],
+  "id":"did:web:famuda1234.github.io:readme:did ",
+  "verificationMethod":[
+    {
+      "publicKeyMultibase":"z6MknYmuggPB4wDBTQXyJRk4eHkLPJhhjMgg6mJgb8Qk2kXz",
+      "controller":"did:web:famuda1234.github.io:readme:did ",
+      "id":"did:web:famuda1234.github.io:readme:did#key-0",
+      "type":"Ed25519VerificationKey2020",
+     "@context":"https://w3id.org/security/suites/ed25519-2020/v1"
+  }
+  ],
+  "@context":["https://www.w3.org/ns/did/v1"],
+  "alsoKnownAs":[], 
+  "authentication":["did:web:famuda1234.github.io:readme:did#key-0"
+  ]
+}
